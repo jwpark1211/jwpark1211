@@ -30,4 +30,4 @@ _________
 
 ### Statistics
 _________
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwpark1211&show_icons=true&theme=github_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwpark1211&show_icons=true&theme=dark)

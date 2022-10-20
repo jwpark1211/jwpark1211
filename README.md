@@ -1,7 +1,8 @@
 ### About Me 
 _________
-+ 🧩 Back-End Developer
-+ 📚 Studying At Dankook Univ.
+🤍 Back-End Developer
+
+🤍 Studying At Dankook Univ.
 
 <br>
 
@@ -29,4 +30,4 @@ _________
 
 ### Statistics
 _________
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwpark1211&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwpark1211&show_icons=true&theme=github_dark)

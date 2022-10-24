@@ -1,11 +1,3 @@
-### About Me 
-_________
-🤍 Back-End Developer
-
-🤍 Studying At Dankook Univ.
-
-<br>
-
 ### Skills
 _________
 <a><img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=Spring&logoColor=white"></a>

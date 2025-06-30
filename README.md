@@ -1,2 +1,1 @@
-<img src="https://github.com/user-attachments/assets/2096c5a5-3c53-4c6e-be08-4306a0f5200e" width="500">
-
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fjwpark1211?color=gray&label=hits&size=small)](https://myhits.vercel.app)
